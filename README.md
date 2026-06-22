@@ -1,4 +1,3 @@
-```md
 # Tic Tac Toe Game
 
 A responsive and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. This project provides a simple yet engaging implementation of the classic two-player game with a clean and user-friendly interface.
@@ -30,4 +29,3 @@ The interface is fully responsive, ensuring smooth gameplay across desktop, tabl
 ## Author
 
 **Rihan Mulla**
-```
